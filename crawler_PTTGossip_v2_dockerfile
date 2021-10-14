@@ -1,0 +1,12 @@
+FROM python:3.7
+MAINTAINER danny0515
+
+ADD ./app /app2
+
+WORKDIR /app2
+
+# install requests, bs4
+RUN pip install requests
+RUN pip install BeautifulSoup4
+
+CMD ["python", "crawler_pttgossip_v2.py"]
