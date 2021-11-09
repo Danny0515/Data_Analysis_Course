@@ -56,7 +56,7 @@ class TodoListGUI:
             # Insert record to db
             conn, cursor = __conn_mysql()
             sql = 'INSERT INTO task_data VALUES(%s, %s, %s);'
-            cursor.execute(sql, (taksContent.lower(), add_time, None))  # lower for formatting
+            cursor.execute(sql, (taksContent.lower(), add_time, None))  # lower for text formatted
             __close_conn(conn, cursor)
             self.text.delete(1.0, END)
 
@@ -71,7 +71,7 @@ class TodoListGUI:
             del_time = datetime.now()
             deleteTask = self.taskList.curselection()
             for index in deleteTask[::-1]:
-                taskContent = self.taskList.get(index).replace('\n', '').lower()  # lower for formatting
+                taskContent = self.taskList.get(index).replace('\n', '').lower()  # lower for text formatted
                 self.taskList.delete(index)
                 print(f'Delete task = {taskContent}')
 
