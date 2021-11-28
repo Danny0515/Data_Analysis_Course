@@ -15,10 +15,10 @@ There are some programs that I've done myself.
 
 ### crawler
 > 用 python 開發的爬蟲程式
-\
+
 ### data_cleaning
 > 資料清洗實作 (pandas, numpy)
-\
+
 ### python_exercise
 > Python 學習過程的練習
-\
+
