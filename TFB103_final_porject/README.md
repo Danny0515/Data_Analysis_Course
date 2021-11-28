@@ -6,6 +6,6 @@
 |Kafka_consumer.py|Kafka_consumer|
 |conn_mysql.py|MySQL 連線|
 |app_accounting.py|功能開發|<https://www.youtube.com/watch?v=KNepJwn5KK0>\
-https://www.youtube.com/watch?v=ARPDH0jUKFw|
+| | |https://www.youtube.com/watch?v=ARPDH0jUKFw|
 |app_hotRank.py|功能開發|
 |app_resQuery.py|功能開發|
