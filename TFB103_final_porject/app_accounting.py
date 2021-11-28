@@ -132,7 +132,7 @@ def edit_budget(user_id, user_name, TextMessage):
                 return '輸入格式ex:「修改預算100000」'
         elif '刪除預算' in TextMessage:
             sql = 'UPDATE user_info SET budget = %s WHERE user_id = %s;'
-            cursor.execute(sql, (0, user_id))
+            cursor.execute(sql, (None, user_id))
             close_conn_mysql(conn, cursor)
             return '已刪除預算，記得輸入新預算，\n才能幫你算錢喔~'
         elif '查看預算' in TextMessage:
