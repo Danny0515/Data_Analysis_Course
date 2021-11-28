@@ -12,5 +12,5 @@ There are some programs that I've done myself.
 > 資料清洗實作 (pandas, numpy)
 
 ### python_exercise
-> Python 學習過程的練習
+> Python 學習過程的實作練習
 
