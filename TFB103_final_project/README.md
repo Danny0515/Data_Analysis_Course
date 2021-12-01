@@ -1,5 +1,5 @@
 ## 內容說明
-專題PPT連結: <https://drive.google.com/file/d/1Pyi9HR4gbLnqgA1YG1On-u0zvOcpclQY/view?usp=sharing>
+專題報告PDF連結: <https://drive.google.com/file/d/1s_heUSvBOCOATOk1jhYgx9wZ4gPZGVPd/view?usp=sharing>
 |文件/目錄|說明|連結|
 | ---- | ---- | ---- |
 |MySQL_script|放 SQL 語法腳本|
