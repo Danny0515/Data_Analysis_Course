@@ -12,5 +12,5 @@
 | |記帳統計功能|https://www.youtube.com/watch?v=ARPDH0jUKFw|
 |app_hotRank.py|住宿熱門排行功能|https://www.youtube.com/watch?v=M-a1tQIsDGE|
 |app_resQuery.py|鄰近餐廳快搜功能|https://www.youtube.com/watch?v=ZdN4PaPC6II|
-|組員負責|推薦系統|https://www.youtube.com/watch?v=HGbugynby4s#t=34m31s|
-|組員負責|問卷|https://www.youtube.com/watch?v=HGbugynby4s#t=30m00s|
+|組員負責|住宿推薦系統|https://www.youtube.com/watch?v=HGbugynby4s#t=34m31s|
+|組員負責|問卷功能|https://www.youtube.com/watch?v=HGbugynby4s#t=30m00s|
