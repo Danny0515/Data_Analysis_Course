@@ -6,7 +6,7 @@
 |techinal_support|給組員的說明文件|
 |Kafka_consumer.py|Kafka_consumer|
 |conn_mysql.py|MySQL 連線|
-|app_accounting.py|功能開發|<https://www.youtube.com/watch?v=KNepJwn5KK0>
+|app_accounting.py|語音記帳功能|<https://www.youtube.com/watch?v=KNepJwn5KK0>
 | | |https://www.youtube.com/watch?v=ARPDH0jUKFw|
-|app_hotRank.py|功能開發|https://www.youtube.com/watch?v=M-a1tQIsDGE|
-|app_resQuery.py|功能開發|https://www.youtube.com/watch?v=ZdN4PaPC6II|
+|app_hotRank.py|住宿熱門排行功能|https://www.youtube.com/watch?v=M-a1tQIsDGE|
+|app_resQuery.py|鄰近餐廳快搜功能|https://www.youtube.com/watch?v=ZdN4PaPC6II|
