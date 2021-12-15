@@ -3,7 +3,7 @@
 >[專題報告影片](https://www.youtube.com/watch?v=HGbugynby4s)
 
 |文件/目錄|說明(Youtube連結)|
-| ---- | ---- | ---- |
+| ---- | ---- |
 |MySQL_script|放 SQL 語法腳本|
 |techinal_support|給組員的說明文件|
 |Kafka_consumer.py|Kafka_consumer|
