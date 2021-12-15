@@ -2,7 +2,7 @@
 >[專題報告PDF](https://drive.google.com/file/d/1s_heUSvBOCOATOk1jhYgx9wZ4gPZGVPd/view?usp=sharing)\
 >[專題報告影片](https://www.youtube.com/watch?v=HGbugynby4s)
 
-|文件/目錄|說明|DEMO連結|
+|文件/目錄|說明(Youtube連結)|
 | ---- | ---- | ---- |
 |MySQL_script|放 SQL 語法腳本|
 |techinal_support|給組員的說明文件|
