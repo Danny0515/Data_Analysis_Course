@@ -1,16 +1,17 @@
-## Everything has its beginning.
-
+# Everything has its beginning
 There are some programs that I've done myself.
-<br>
-### TFB103_final_porject
-> TFB103專題個人負責部分
 
-### crawler
-> 用 python 開發的爬蟲程式
+## Overview
+### [Crawler](https://github.com/Danny0515/Portfolio-crawler)
+- 網站爬蟲專案
 
-### data_cleaning
-> 資料清洗實作 (pandas, numpy)
+### [TFB103_final_project](https://github.com/Danny0515/Portfolio/tree/main/TFB103_final_project)
+- TFB103專題個人負責部分
 
-### python_exercise
-> Python 學習過程的實作練習
+### [Python_practice](https://github.com/Danny0515/Portfolio/tree/main/Python_practice)
+- 一些個人練習的紀錄
+  - `crawler/` 爬蟲練習
+  - `dataCleaning/` 資料清洗練習 (pandas, numpy)
+  - `program/` 小程序 
+
 
