@@ -4,8 +4,6 @@ There are some programs that I've done myself.
 ## Overview
 以下標題都有設連結，可以直接連到該頁面
 
----
-
 ### [Crawler](https://github.com/Danny0515/Portfolio-crawler)
 - 網站爬蟲專案
 - 主要技術: Python, Selenium, BeautifulSoup
