@@ -19,4 +19,5 @@ There are some programs that I've done myself.
   - `dataCleaning/` 資料清洗練習 (pandas, numpy)
   - `program/` 小程序 
 
-
+### Algorithmic Challenges 
+- [HackerRank-solution](https://github.com/Danny0515/HackerRank-solution)
